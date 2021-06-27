@@ -2,7 +2,7 @@
 buildscript {
     ext {
         android_gradle_plugin_version = '7.1.0-alpha01'
-        kotlin_version = "1.4.30"
+        kotlin_version = "1.5.10"
         compose_version = '1.0.0-beta01'
     }
     repositories {
